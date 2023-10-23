@@ -1,10 +1,10 @@
 # PasswordFree
 Passwordfree™ is an essential customer biometric MFA for fast, easy, and more secure login experiences. No coding, Boost sales, Free app.
 ## Requirements
-Requires at least: 6.2
-Tested up to: 6.3
-Requires PHP: 7.4
-Stable tag: 1.0.0
+* Requires at least: 6.2
+* Tested up to: 6.3
+* Requires PHP: 7.4
+* Stable tag: 1.0.0
 ## Description
 **NO MORE PASSWORDS!**
 
@@ -78,6 +78,6 @@ For more details, see the [Developer Guide](https://docs.nopass.us/user-guide/Us
 [identite.us](https://www.identite.us/)
 
 ## Licence
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+* License: GPLv2 or later
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html
    
